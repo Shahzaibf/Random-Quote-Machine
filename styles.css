@@ -33,7 +33,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: gray;
 }
 .quote-box button:hover {
     cursor: pointer;
 }
+
